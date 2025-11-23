@@ -1,89 +1,49 @@
 Core dependencies
-
 pandas>=1.5.0
 numpy>=1.21.0
 python-dateutil>=2.8.0
-
-
 Web scraping and data collection
-
 requests>=2.28.0
 beautifulsoup4>=4.11.0
 selenium>=4.5.0
 lxml>=4.9.0
-
-
 Data visualization
-
 matplotlib>=3.5.0
 seaborn>=0.11.0
 plotly>=5.10.0
-
-
 API clients
-
 tweepy>=4.12.0
 praw>=7.6.0
-
-
 Data processing
-
 openpyxl>=3.0.0
 xlrd>=2.0.0
-
-
 Cryptography for anonymization
-
 cryptography>=3.4.0
 hashlib-compat>=1.0.0
-
-
 Web framework (for dashboards)
-
 flask>=2.2.0
 jinja2>=3.1.0
-
-
 Database support
-
 sqlalchemy>=1.4.0
 sqlite3
-
-
 Utilities
-
 python-dotenv>=0.19.0
 click>=8.1.0
 tqdm>=4.64.0
 pyyaml>=6.0
-
-
 Testing
-
 pytest>=7.0.0
 pytest-cov>=3.0.0
-
-
 Development tools
-
 black>=22.0.0
 flake8>=5.0.0
 mypy>=0.950
-
-
 Optional: Advanced ML/Analytics
-
 scikit-learn>=1.1.0
 scipy>=1.9.0
-
-
 Optional: Async processing
-
 aiohttp>=3.8.0
 asyncio
-
-
 Optional: Cloud storage
-
 boto3>=1.24.0
 google-cloud-storage>=2.5.0
