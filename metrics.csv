@@ -1,0 +1,19 @@
+creator_id,platform,snapshot_date,followers,following,posts_count,avg_likes_post,avg_comments_post,avg_shares_post,engagement_rate,recent_posts_count,story_views_avg,video_views_avg,subscriber_count,monthly_revenue_estimate,growth_rate_30d,data_source,collection_method,notes
+ne-8f2c1a4b9c3d7e8f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f,X,2024-03-10,15234,892,1456,234.5,45.2,12.8,0.0183,28,3421.5,5678.3,null,null,0.0234,API,TwitterAPI,v4.0 endpoint
+ne-8f2c1a4b9c3d7e8f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f,Instagram,2024-03-10,28456,1203,892,1567.8,234.1,67.3,0.0635,15,8923.4,12345.6,null,null,0.0456,Scraping,BeautifulSoup,Mobile user agent
+ne-8f2c1a4b9c3d7e8f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f,OnlyFans,2024-03-11,3847,12,234,null,null,null,null,8,2456.7,null,3847,5432.10,0.0876,Manual,DirectObservation,Free follower count visible
+ne-3b5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d,Instagram,2024-03-12,18743,876,654,1234.5,187.3,45.6,0.0758,22,6789.2,9876.5,null,null,0.0321,API,InstagramAPI,Rate limited access
+ne-3b5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d,TikTok,2024-03-10,45678,234,123,3456.7,234.5,123.4,0.0806,18,null,23456.8,null,null,0.0678,Scraping,TikTokWeb,JavaScript rendering
+ne-9c8d7e6f5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c8d,TikTok,2024-03-11,89234,456,234,5678.9,345.6,234.5,0.0675,25,null,45678.9,null,null,0.0891,Scraping,TikTokAPI,Official API access
+ne-9c8d7e6f5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9c8d,X,2024-03-09,12456,789,890,567.8,89.2,34.5,0.0529,32,2345.6,3456.7,null,null,0.0432,API,TwitterAPI,v4.0 endpoint
+ia-4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6,Instagram,2024-03-12,34567,987,456,2345.6,345.7,89.3,0.0780,19,9876.5,15678.9,null,null,0.0543,API,InstagramAPI,Business account access
+ia-4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6,TikTok,2024-03-10,67890,345,234,4567.8,456.7,234.6,0.0743,21,null,34567.8,null,null,0.0765,Scraping,TikTokWeb,JavaScript rendering
+ia-4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6,OnlyFans,2024-03-11,5432,23,123,null,null,null,null,12,3456.8,null,5432,6543.21,0.0923,Manual,DirectObservation,Free follower count visible
+ia-7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a,X,2024-03-09,8934,234,567,234.5,34.2,12.3,0.0301,28,1234.5,2345.6,null,null,0.0234,API,TwitterAPI,v4.0 endpoint
+ia-2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5,OnlyFans,2024-03-10,2345,34,89,null,null,null,null,8,1234.5,null,2345,3456.78,0.0678,Manual,DirectObservation,Free follower count visible
+ia-2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5,Reddit,2024-03-08,5678,123,234,123.4,23.4,8.9,0.0257,45,null,null,null,null,0.0345,API,RedditAPI,OAuth2 authentication
+ne-1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c,Reddit,2024-03-08,3456,89,123,89.2,12.3,4.5,0.0296,34,null,null,null,null,0.0234,API,RedditAPI,OAuth2 authentication
+ia-5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7,X,2024-03-11,25678,1234,2345,3456.7,234.5,123.4,0.1448,45,6789.1,8901.2,null,null,0.0891,API,TwitterAPI,v4.0 endpoint
+ia-5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7,Fansly,2024-03-10,8934,45,678,null,null,null,null,15,2345.6,null,8934,9876.54,0.0789,Scraping,FanslyWeb,HTML parsing
+ne-6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d,Fansly,2024-03-09,6789,67,234,null,null,null,null,11,1567.8,null,6789,7654.32,0.0456,Scraping,FanslyWeb,HTML parsing
+ne-6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d,Instagram,2024-03-10,12345,456,345,678.9,89.2,34.5,0.0622,17,3456.7,5678.9,null,null,0.0345,Scraping,InstagramWeb,Mobile user agent
