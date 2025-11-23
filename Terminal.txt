@@ -1,0 +1,2 @@
+ninja@computer:~$
+mkdir -p grok-creator-economy/{docs,data/{schemas,samples,exports},scripts,reports,templates,compliance,tools}
